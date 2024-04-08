@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "editorconfig": "^0.15.3",
-    "eslint": "5.16.0",
+    "eslint": "9.0.0",
     "eslint-plugin-jsdoc": "3.8.0",
     "eslint-plugin-mocha": "5.2.0",
     "eslint-plugin-security": "1.4.0",
